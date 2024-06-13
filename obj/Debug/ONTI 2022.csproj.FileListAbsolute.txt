@@ -1,0 +1,11 @@
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\bin\Debug\ONTI 2022.exe.config
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\bin\Debug\ONTI 2022.exe
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\bin\Debug\ONTI 2022.pdb
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\obj\Debug\ONTI 2022.csproj.AssemblyReference.cache
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\obj\Debug\ONTI_2022.Form1.resources
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\obj\Debug\ONTI_2022.Properties.Resources.resources
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\obj\Debug\ONTI 2022.csproj.GenerateResource.cache
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\obj\Debug\ONTI 2022.csproj.CoreCompileInputs.cache
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\obj\Debug\ONTI 2022.exe
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\obj\Debug\ONTI 2022.pdb
+G:\C# Rezolvari\ONTI 2022\ONTI 2022\ONTI 2022\obj\Debug\ONTI_2022.Form2.resources
